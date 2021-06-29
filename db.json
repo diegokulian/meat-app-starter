@@ -379,6 +379,22 @@
     },
     {
       "id": 3
+    },
+    {
+      "name": "Diego Ronan Kulian",
+      "email": "dronan@gmail.com",
+      "emailConfirmation": "dronan@gmail.com",
+      "address": "Rua Maurício de Oliveira",
+      "number": "12",
+      "optionalAddress": "",
+      "paymentOption": "DEB",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "cup-cake"
+        }
+      ],
+      "id": 4
     }
   ]
 }
